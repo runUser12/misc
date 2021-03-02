@@ -1,0 +1,12 @@
+[
+  {
+    firstName: 'John',
+    lastName: 'Doe',
+    shoppingItems: [{name: 'chocolate', price: 1.50, quantity: 12}, {name: 'PS5', price: 500.00, quantity: 1}, {name: 'banana', price: 1.50, quantity: 8}]
+  },
+  {
+    firstName: 'Jane',
+    lastName: 'Doe',
+    shoppingItems: [{name: 'chocolate', price: 1.50, quantity: 12}, {name: 'PS5', price: 500.00, quantity: 1}, {name: 'banana', price: 1.50, quantity: 8}]
+  }
+]
